@@ -1,0 +1,24 @@
+{
+  "name": "App-Making",
+  "version": "1.0.0",
+  "description": "Running an App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamirPham/App-Making.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamirPham/App-Making/issues"
+  },
+  "homepage": "https://github.com/SamirPham/App-Making#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
